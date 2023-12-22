@@ -1,5 +1,5 @@
 # Sleep-Quality
-Analyzed sleep quality in relation to disorders like sleep apnea and insomnia through univariate and multivariate analysis.
+Analyzed sleep quality concerning sleep disorders like sleep apnea and insomnia through univariate and multivariate analysis with Pandas, Seaborn, and MatPlotLib. Leveraged scikit-learn to build a pipeline to optimize standard scaling and logistic regression, and performed cross-validation to optimize and evaluate the performance of logistic regression, random forest, decision tree, and SVC models.
 
 ## Univariate Analysis
 Distribution of sleep disorders
