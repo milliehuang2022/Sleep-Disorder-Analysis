@@ -36,3 +36,8 @@ Analyzing Quality of Sleep in Relation to Sleep Duration, Faceted by Sleep Disor
 
 ![download](https://github.com/milliehuang2022/Sleep-Quality/assets/87724542/096b4032-0656-4758-ba76-71622a5c01b9)
 
+Heatmap of Correlation Between Numeric Variables
+
+![download](https://github.com/milliehuang2022/Sleep-Quality/assets/87724542/dc71ad33-a1e7-4361-8646-ccecdd190113)
+
+
