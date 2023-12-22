@@ -40,4 +40,8 @@ Heatmap of Correlation Between Numeric Variables
 
 ![download](https://github.com/milliehuang2022/Sleep-Quality/assets/87724542/dc71ad33-a1e7-4361-8646-ccecdd190113)
 
+## Building a Model + Pipeline
 
+![download](https://github.com/milliehuang2022/Sleep-Quality/assets/87724542/12a33156-f092-4ae5-8d23-d0dd48c23f31)
+
+![download](https://github.com/milliehuang2022/Sleep-Quality/assets/87724542/3d03c649-6d44-45c1-8768-79c3715a3ad9)
