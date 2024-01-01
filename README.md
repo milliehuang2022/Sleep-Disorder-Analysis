@@ -43,6 +43,7 @@ Heatmap of Correlation Between Numeric Variables
 ## Tableau Dashboard
 
 To summarize my findings in a cohesive visualization, I created a Tableau dashboard with easily accessible results, in which different sleep disorders can be highlighted for clarity.
+
 ![68747470733a2f2f7075626c69632e7461626c6561752e636f6d2f7374617469632f696d616765732f536c2f536c656570416e616c797369735f31373034303934323035313839302f44617368626f617264312f315f7273732e706e67](https://github.com/milliehuang2022/Sleep-Disorder-Analysis/assets/87724542/48c012fb-b740-4e9b-bf12-67bd04062bff)
 
 Can be accessed on this page: https://public.tableau.com/views/SleepAnalysis_17040942051890/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
