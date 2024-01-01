@@ -1,5 +1,5 @@
 # Sleep-Disorder-Analysis
-Analyzed sleep quality concerning sleep disorders like sleep apnea and insomnia through univariate and multivariate analysis with Pandas, Seaborn, and MatPlotLib. Leveraged scikit-learn to build a pipeline to optimize standard scaling and logistic regression, and performed cross-validation to optimize and evaluate the performance of logistic regression, random forest, decision tree, and SVC models.
+In this project, I investigated sleep quality metrics associated with sleep disorders, using Python for EDA and Tableau for a dashboard. I also implemented machine learning pipeline with Scikit-Learn to streamline standard scaling and logistic regression. Later, I employed cross-validation strategies to fine-tune predictive performance with various models including random forest and SVC.
 
 ## Univariate Analysis
 Distribution of sleep disorders
