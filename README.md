@@ -1,5 +1,5 @@
 # Sleep-Disorder-Analysis
-In this project, I investigated sleep quality metrics associated with sleep disorders, using Python for EDA and Tableau for a dashboard. I also implemented machine learning pipeline with Scikit-Learn to streamline standard scaling and logistic regression. Later, I employed cross-validation strategies to fine-tune predictive performance with various models including random forest and SVC.
+In this project, I investigated sleep quality metrics associated with sleep disorders, using Python for EDA and Tableau for a dashboard. I also implemented a machine learning pipeline with Scikit-Learn to streamline standard scaling and logistic regression. Later, I employed cross-validation strategies to fine-tune predictive performance with various models including random forest and SVC.
 
 ## Univariate Analysis
 Distribution of sleep disorders
